@@ -1,2 +1,2 @@
 # stuffs
-All my classes and guides to new classes of R programming and Statistics.
+All my classes and guides of R programming and Statistics.
